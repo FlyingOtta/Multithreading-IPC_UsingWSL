@@ -103,3 +103,8 @@ For questions or issues, please submit a GitHub issue.
 - [APhase3DeadlockCreation.rs](APhase3DeadlockCreation.rs) - Deadlock Scenario
 - [APhase4DeadlockResolution.rs](APhase4DeadlockResolution.rs) - Deadlock Resolution
 - [BPhase1IPC.rs](BPhase1IPC.rs) - Inter-Process Communication
+
+
+## Presentation Video
+Watch the full project demonstration here:  
+[![Project Video](https://img.youtube.com/vi/IpQAg5UgXjI/0.jpg)](https://www.youtube.com/watch?v=IpQAg5UgXjI)
