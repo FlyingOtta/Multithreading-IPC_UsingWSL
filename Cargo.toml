@@ -1,0 +1,28 @@
+[package]
+name = "MultiThreadedPRJ"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+nix = { version = "0.27", features = ["process"] }
+
+
+[[bin]]
+name = "phase1"
+path = "src/APhase1BasicThreadOps.rs"
+
+[[bin]]
+name = "phase2"
+path = "src/APhase2ResourceProtection.rs"
+
+[[bin]]
+name = "phase3"
+path = "src/APhase3DeadlockCreation.rs"
+
+[[bin]]
+name = "phase4"
+path = "src/APhase4DeadlockResolution.rs"
+
+[[bin]]
+name = "ipc1"
+path = "src/BPhase1IPC.rs"
